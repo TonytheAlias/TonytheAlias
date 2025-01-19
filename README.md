@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @TonytheAlias,I am a full stack web developer. Experienced with various coding languages such as html, css, and javascript, and I am currently learning react. Although, I do have experience in other coding languages such as c# and c++.
+- 👋 Hi, I’m @TonytheAlias,I am a full stack developer. Experienced with various coding languages such as html, css,and javascript. Although, I do have experience in other coding languages such as c# and c++. I am also experience with frameworks such as .NET MAUI and react. 
