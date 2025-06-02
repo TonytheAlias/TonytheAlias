@@ -1,5 +1,5 @@
 -# 💫 About Me:
-Hey, I am Tyreek. I am currently working on a shopping website called someshopping.<br>I am a computer science graduate that is a software developer with frontend and backend experience.<br>I'm currently improving my knowledge of React.js and Python.<br><br>
+Hey, I am Tyreek. I am currently working on a shopping website called someshopping. I am a computer science graduate that is a software developer that goal is to make my ideas come to life. I have frontend and backend experience with languages such as javascript, HTML, CSS, C#, C++ and Python. I am also experience with frameworks such as react.js and .Net Maui. I am currently impoving my knowledge of React.js and Python.
 
 
 ## 🌐 Socials:
