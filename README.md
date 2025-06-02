@@ -21,4 +21,9 @@ Hey, I am Tyreek. I am currently working on a clothing shopping website called s
 ---
 [![](https://visitcount.itsvg.in/api?id=tonythealias&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tonythealias/tonythealias/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tonythealias/tonythealias/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tonythealias/tonythealias/output/github-snake.svg" />
+</picture>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
