@@ -1,5 +1,5 @@
 -# 💫 About Me:
-Hey I'm Tyreek, I am a software developer that goal is to make my ideas come to life. I have frontend and backend experience with languages such as javascript, HTML, CSS, C#, C++ and Python. I am also experience with frameworks such as react.js and .Net Maui. I am currently impoving my knowledge of React.js and Python. Also, I am currently working on a shopping website called someshopping.
+Hey I'm Tyreek, I am a software developer that goal is to make my ideas come to life. I have frontend and backend experience with languages such as Javascript, HTML, CSS, C#, C++, Python, and SQL. I am also experience with frameworks such as react.js and .Net Maui. I am currently impoving my knowledge of React.js and Python, deveoping my full stack capabilities by working on a project called SomeShopping.
 
 
 ## 🌐 Socials:
