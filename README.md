@@ -1,5 +1,7 @@
 -# 💫 About Me:
-Hey I'm Tyreek, I am a software developer that goal is to make my ideas come to life. I have frontend and backend experience with languages such as Javascript, HTML, CSS, C#, C++, Python, and SQL. I am also experience with frameworks such as react.js and .Net Maui. I am currently impoving my knowledge of React.js and Python, deveoping my full stack capabilities by working on a project called SomeShopping.
+Hi, I’m Tyreek — a software developer passionate about bringing ideas to life. I have experience in both frontend and backend development, working with languages such as JavaScript, C#, Python, and SQL. I’m also skilled with frameworks and technologies like React, Node.js, Vite, and .NET MAUI.
+
+Right now, I’m building projects to deepen my expertise in these areas. One of my current projects is OtakuSearch, a custom search engine for anime, manga, and manhwa fans. Check out the repository before you go!
 
 
 ## 🌐 Socials:
