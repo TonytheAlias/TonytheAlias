@@ -1,8 +1,9 @@
 -# 💫 About Me:
 Hi, I’m Tyreek — a software developer passionate about bringing ideas to life. I have experience in both frontend and backend development, working with languages such as JavaScript, C#, Python, and SQL. I’m also skilled with frameworks and technologies like React, Node.js, Vite, and .NET MAUI.
 
-Right now, I’m building projects to deepen my expertise in these areas. One of my current projects is OtakuSearch, a custom search engine for anime, manga, and manhwa fans. Check out the repository before you go!
+Right now, I’m building projects to deepen my expertise in these areas. One of my current projects is OtakuSearch, a custom search engine for anime, manga, and manhwa fans. Check out the repositories or my portfolio before you go!
 
+[Visit My Porfolio](https://TonytheAlias.github.io/Portfolio)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/TyreekBrasfield) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tyreekbrasfield@outlook.com) 
